@@ -27,5 +27,19 @@ Status And Information
 - Released   : 2022-10-28
 - Rating     : 18+ 
 - Engine     : Artemis Engine
-- VNDB       : [v37021](https://vndb.org/v37021) 
+- VNDB       : [v37021](https://vndb.org/v37021)
+  <\detail>
 
+<details open> 
+  <summary><h2>Progress Translation</h2></summary>
+
+  
+**Dialog**
+
+![](https://geps.dev/progress/15)
+
+**All Image Setting**
+
+![](https://geps.dev/progress/40)
+
+<circle-progress value="50" max="100"></circle-progress>
